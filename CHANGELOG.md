@@ -1,3 +1,13 @@
+#### 0.0.4 (2024-12-05)
+
+##### Chores
+
+*  move types declaration to utils (8645c627)
+*  declare global types (c8d08a61)
+*  delete tsconfig (d0c9588a)
+* **release:**
+  *  v0.0.3 (95dabc05)
+
 #### 0.0.3 (2024-12-05)
 
 ##### Chores
